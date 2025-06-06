@@ -32,7 +32,7 @@ Object (includes Arrays, Functions, etc.).
 5 == '5';  // true
 5 === '5'; // false
 
-
+```
 
 
 What is the difference between let, const, and var?
